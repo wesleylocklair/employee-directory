@@ -13,3 +13,4 @@ Stack Overflow: https://stackoverflow.com/
 MIT License
 
 ## Video Demo!
+[employee demo video.webm](https://github.com/user-attachments/assets/dcbaf36b-eec0-42d9-b47f-e1598d6ce111)
