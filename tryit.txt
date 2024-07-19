@@ -1,1 +1,3 @@
 Lets try the command line :D
+First I add the the existing departments, roles, and employees!
+Then I use the command line to view the added info!
